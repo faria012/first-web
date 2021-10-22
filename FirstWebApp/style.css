@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    background-color: burlywood;
+    height: 80px;
+    width: 75%;
+}
+
+#hello{
+    font-size: 50px;
+    color: aquamarine;
+}
+.like{
+    background-color: coral;
+}
+.play{
+    color: rgb(128, 179, 48);
+}
+h1.like{
+    font-size: 60px;
+}
+img{
+    width: 50%;
+}
+.blog{
+    border: 3px solid yellowgreen;
+    border-radius: 30px;
+    margin: 2px;
+    width: 30%;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+    
+}
+p{
+    text-align: justify;
+}
